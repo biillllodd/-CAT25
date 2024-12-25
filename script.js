@@ -1,7 +1,7 @@
 const sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay));
 
 function copy(){
-    navigator.clipboard.writeText('CnfshwmvDqLrB1jSLF7bLJ3iZF5u354WRFGPBmGz4daw');
+    navigator.clipboard.writeText('8nTnpJA6Lcg7dXHy78aEDrPUsVcUi97TNJEkVZJEpump');
     var ca = document.getElementById('CA');
 
     const warning = document.getElementById('copiedWarning');

@@ -22,7 +22,7 @@ function copy(){
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("Dec 28, 2024 20:00:00").getTime();
+var countDownDate = new Date("Dec 28, 2024 22:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
